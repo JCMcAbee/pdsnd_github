@@ -10,6 +10,8 @@ Project requirements to complete course
 ### Files used
 readme.md
 ignore
+bikeshare file
+data files
 
 ### Credits
 None so far
