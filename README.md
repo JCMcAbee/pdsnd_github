@@ -16,3 +16,5 @@ data files
 ### Credits
 None so far
 
+### Updates
+Updated readme for project
