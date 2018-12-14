@@ -198,8 +198,16 @@ def raw_data():
             print(df[df.columns[0:-1]].iloc[head:tail])
         if more_raw == "no":
             break
+<<<<<<< HEAD
 raw_data()
 
     #added for github project 4-1
     #added for github project 4-2
     #added for github project 4-3
+||||||| merged common ancestors
+raw_data()
+=======
+raw_data()
+
+    #12.13 - added this line for github project
+>>>>>>> documentation
